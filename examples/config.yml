@@ -1,0 +1,8 @@
+profile: apache
+max_chain_depth: 2
+similarity_threshold: null
+disabled_mutators:
+  - case-mutation
+metadata:
+  engagement: authorized-lab
+
