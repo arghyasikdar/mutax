@@ -1,7 +1,6 @@
 # MutaX
 
-MutaX is a production-quality payload mutation engine for authorized offensive security
-research. It generates traversal, LFI, path normalization, and WAF bypass payload variants
+MutaX is a payload mutation engine. It generates traversal, LFI, path normalization, and WAF bypass payload variants
 with composable mutators, profile-aware selection, deduplication, scoring, entropy, and
 transformation history.
 
@@ -203,3 +202,8 @@ Add the class to `BUILTIN_MUTATORS`, then include its name in a profile.
 - Corpus-driven profile tuning
 - Interactive TUI mode with filtering and live previews
 
+Developed by:
+
+Arghya Sikdar
+
+Assistant Professor of Cyber Security
