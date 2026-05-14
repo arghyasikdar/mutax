@@ -1,8 +1,0 @@
-services:
-  mutax:
-    build: .
-    image: mutax:latest
-    command: ["-p", "../../etc/passwd", "--profile", "apache"]
-    volumes:
-      - ./examples:/app/examples
-

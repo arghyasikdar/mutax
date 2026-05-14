@@ -1,4 +1,0 @@
-../../etc/passwd
-../../../windows/win.ini
-..%2f..%2fetc/passwd
-
